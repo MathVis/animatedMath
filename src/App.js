@@ -35,7 +35,7 @@ class App extends Component {
         }else if(plus === 200){
           plus = 1;
         }
-    },10);
+    },45);
   }
   render() {
     return (
